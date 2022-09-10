@@ -1,1 +1,2 @@
-hw2
+#hw2, scrapes for nfl bets
+
